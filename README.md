@@ -1,4 +1,4 @@
-# Enhanced-Smart-Home-Control-System---C-Project
+# Enhanced Smart Home Control System - C++ Project
 
 The Enhanced Smart Home Control System is a console-based application developed in C++. It simulates the control and monitoring of various smart home devices, including lights, thermostats, and security cameras. This project showcases proficiency in object-oriented programming (OOP), inheritance, polymorphism, and data structures.
   
